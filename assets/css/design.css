@@ -1,0 +1,52 @@
+form {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+
+
+}
+
+input#affichage{
+    text-align: right;
+    font-size : 50px;
+    border: 8px solid blue;
+    width: 500px;
+
+}
+button {
+    padding:30px 30px;
+    font-size : 50px;
+}
+
+div.Fline {
+    display : flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+div.Sline {
+    display : flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+div.Tline {
+    display : flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+div.Lline {
+    display : flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.input {
+    display : flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+
